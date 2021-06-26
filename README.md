@@ -1,7 +1,5 @@
 ### CREATE/GET OPERATIONS FOR PRODUCTS WITH REST API
 
-> Create and get operations for products using OOPS & REST API).
-
 ## Get started
 
 1. Create a database named `catalog` in MySQL, then import `catalog.sql` file from the root folder.
